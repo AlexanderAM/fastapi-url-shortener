@@ -25,7 +25,7 @@ $ pip3 install -r requirements.txt
 Run the application:
 
 ```
-pythom3 main.py
+python3 main.py
 ```
 
 ## Error?
