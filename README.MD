@@ -1,4 +1,4 @@
-# FastAPI Notes Application
+# FastAPI Url Shortener Application
 
 Repository containing code for "Deploying FastAPI applications to Vercel".
 
